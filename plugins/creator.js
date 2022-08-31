@@ -20,16 +20,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Zakuro-Dev
-${htjava} *✉️ Nama RL* : Rama Agung
+${htjava} *💌 Nama* : defan
+${htjava} *✉️ Nama RL* : Defan sugiarto
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 15
-${htjava} *🧮 Kelas* : 10
-${htjava} *🧩 Hobby* : Turu
+${htjava} *🧮 Kelas* : 8
+${htjava} *🧩 Hobby* : madang
 ${htjava} *💬 Sifat* : Wibu, Tukang Satir, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Lumajang, Jawa Timur
+${htjava} *🗺️ Tinggal* : Indo, Kebumen, Jawa Tengah
 ${htjava} *❤️ Waifu* : Yui - Hirasawa , Tsukasa Yuzaki, Onodera
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
