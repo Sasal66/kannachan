@@ -44,7 +44,7 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: "Hallo " + name,
 					mediaUrl: sgc,
-					description: 'Mizuhara-Mdོ',
+					description: 'simple bot esm',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pp)).buffer(),
 					sourceUrl: "https://github.com/FahriAdison",					
@@ -56,7 +56,7 @@ handler.all = async function (m) {
             mediaUrl: "https://Instagram.com/bot_whangsaf",
             mediaType: "VIDEO",
             description: "https://Instagram.com/bot_whangsaf", 
-            title: 'Mizuhara-Mdོ',
+            title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -88,8 +88,8 @@ handler.all = async function (m) {
                        },
             message: { 
                "extendedTextMessage": {
-                        "text":ᴹᴿ᭄defα͢͢͢ή彡,
-                        "title": ᴹᴿ᭄defα͢͢͢ή彡,
+                        "text":wm,
+                        "title": wm,
                         'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                                }
                              } 
@@ -123,8 +123,8 @@ handler.all = async function (m) {
                                "mimetype": "image/jpeg",
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
-                           "title": ᴹᴿ᭄defα͢͢͢ή彡, //Kasih namalu 
-                           "description": "Mizuhara-Mdོ", 
+                           "title": wm, //Kasih namalu 
+                           "description": "Simple Bot Esm", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
